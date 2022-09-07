@@ -1,0 +1,35 @@
+h1 {
+    font-family: 'Oswald', sans-serif;
+    padding-top: 0;
+}
+
+.Firstname {
+    font-family: 'Oswald', sans-serif;
+    padding: 11px;
+}
+.Lastname {
+    font-family: 'Oswald', sans-serif;
+    padding: 5px;
+}
+.submit {
+   border: 1px solid black;
+   border-radius: 15px;
+   margin: 10px;
+
+}
+  
+.Email {
+    font-family: 'Oswald', sans-serif;
+    padding: 5px;
+}
+form {
+    text-align: center;
+    border: 2px solid black;
+    display: inline-block;
+    padding-top: 0;
+    margin-left: 625px;
+    margin-top:200px;
+    border-radius:15px;
+    font-size: 30px;
+    
+}
